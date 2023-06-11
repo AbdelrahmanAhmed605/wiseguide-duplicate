@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #7286a0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+.custom-navbar-menu {
+  background-color: #7286a0;
+}
+
+/* Home.css */
+.content {
+  margin-top: 60px; /* Adjust the margin-top value as needed */
+}
+
+.navbar-item {
+  color: #ffffff;
+}
+
+.custom-list li {
+  list-style-type: none;
+}
